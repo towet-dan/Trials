@@ -1,0 +1,2 @@
+# Trials
+Django trials project
